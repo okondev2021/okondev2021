@@ -25,18 +25,18 @@ I build scalable, AI-driven systems designed for real-world impact. My work sits
 
 ### 🚀 Key Projects
 
-#### 🔬 [MediCheck](
+#### 🔬 MediCheck
 **AI + Blockchain Drug Verification System**
 * **Problem:** High prevalence of counterfeit drugs in emerging markets.
 * **Solution:** Built an end-to-end traceability engine using **Hedera HCS** for immutable logging and **Gemini AI** for rapid drug identification.
 * **Impact:** Pitched to leading pharmaceutical executives (CODIX); currently integrating GS1 global standards for healthcare traceability.
 
-#### 💊 [MediRemind]
+#### 💊 MediRemind
 **Global Medication Adherence Platform**
 * Engineered a backend using **Firebase Cloud Functions** and **Firestore** to handle time-zone-aware scheduling.
 * Implemented complex logic for missed-dose tracking and automated caregiver escalation via Push notifications.
 
-#### 🧠 [UCHub]
+#### 🧠 UCHub
 **Independent Backend-Heavy System**
 * Designed a clean architecture from scratch focusing on performance and maintainability.
 * Focused on high-load API design and structured data handling.
