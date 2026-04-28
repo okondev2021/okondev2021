@@ -1,5 +1,5 @@
 # Hi, I'm Jedidiah (Jedy) Okon 👋
-### Full-Stack Engineer | EdTech & HealthTech Founder | System Architect
+### Backend Systems Engineer | AI & Infrastructure Builder | EdTech & HealthTech Founder | System Architect
 
 I build scalable, AI-driven systems designed for real-world impact. My work sits at the intersection of **Artificial Intelligence**, **Distributed Ledger Technology (Hedera)**, and **Healthcare Infrastructure**, with a specific focus on solving supply chain and verification challenges in the African market.
 
@@ -23,23 +23,31 @@ I build scalable, AI-driven systems designed for real-world impact. My work sits
 
 ---
 
-### 🚀 Key Projects
+## 🚀 Key Projects
 
-#### 🔬 MediCheck
-**AI + Blockchain Drug Verification System**
-* **Problem:** High prevalence of counterfeit drugs in emerging markets.
-* **Solution:** Built an end-to-end traceability engine using **Hedera HCS** for immutable logging and **Gemini AI** for rapid drug identification.
-* **Impact:** Pitched to leading pharmaceutical executives (CODIX); currently integrating GS1 global standards for healthcare traceability.
+### 🔬 MediCheck
+**AI + Blockchain Drug Verification System (Healthcare Infrastructure)**
 
-#### 💊 MediRemind
-**Global Medication Adherence Platform**
-* Engineered a backend using **Firebase Cloud Functions** and **Firestore** to handle time-zone-aware scheduling.
-* Implemented complex logic for missed-dose tracking and automated caregiver escalation via Push notifications.
+* Built an end-to-end drug traceability system using Hedera HCS (immutable event logging) and PostgreSQL (operational state layer)
+* Designed a dual-layer architecture separating trust events (on-chain) from queryable system state (off-chain)
+* Integrated Gemini AI for contextual verification and assisted identification workflows
+* **Focus:** preventing counterfeit drugs through verifiable, multi-actor supply chain tracking (manufacturer → distributor → hospital → consumer)
 
-#### 🧠 UCHub
-**Independent Backend-Heavy System**
-* Designed a clean architecture from scratch focusing on performance and maintainability.
-* Focused on high-load API design and structured data handling.
+### 💊 MediRemind
+**Time-Aware Medication Adherence System (Distributed Scheduling Engine)**
+
+* Engineered a backend system using Firebase Cloud Functions + Firestore for global medication scheduling
+* Designed time-zone independent dose execution logic with reliable state transitions (scheduled → due → taken / missed → escalated)
+* Implemented automated missed-dose detection + caregiver escalation system via push notifications and email
+* **Focus:** reliable execution of time-critical healthcare workflows across distributed users
+
+### 🧠 UCHub
+**Backend-Heavy Academic Marketplace System (Systems Design Project)**
+
+* Designed a structured multi-sided platform connecting students and tutors through goal-based matching + availability coordination
+* Built core backend architecture around identity, scheduling, request lifecycle, and trust/review systems
+* Modeled tutoring as a structured workflow pipeline: discovery → request → acceptance → scheduling → session → feedback
+* **Focus:** scalable backend design for marketplace-style coordination systems in education
 
 ---
 
