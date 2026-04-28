@@ -5,10 +5,14 @@ I build scalable, AI-driven systems designed for real-world impact. My work sits
 
 ---
 
-### 🔭 Currently Building
-* **[MediCheck](https://github.com/your-repo)**: A mission-critical platform using **AI + Blockchain** (Hedera HCS) to combat counterfeit medication through immutable drug traceability.
-* **AlphaDraft (DocAuditor)**: An AI-compliance engine designed to audit academic documents against complex grading rubrics and AI-detection flags.
-* **System Architecture**: Deep-diving into distributed systems and high-concurrency backend patterns.
+## 🚧 Currently Building
+### **DocuFlow AI** *AI-powered document processing system for converting handwritten and printed documents into structured digital files via WhatsApp.*
+
+* Built an AI-driven pipeline that extracts text from images using multimodal models
+* Converts unstructured documents (handwritten notes, exam papers, reports) into structured .docx files
+* Designed for WhatsApp-first workflow to support real-world clerical and academic use cases
+* **Focus:** OCR + AI document structuring + automated file generation
+* **Status:** *In Active Development / Refining AI Extraction Pipeline* 🏗️
 
 ---
 
