@@ -49,6 +49,9 @@ I build scalable, AI-driven systems designed for real-world impact. My work sits
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okondev2021&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
+### 🏆 GitHub Trophies
+[![github-trophy](https://github-trophy.vercel.app/?username=okondev2021&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 📫 Connect with me 
