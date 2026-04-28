@@ -1,7 +1,7 @@
 # Hi, I'm Jedidiah (Jedy) Okon 👋
-### Backend Systems Engineer | AI & Infrastructure Builder | EdTech & HealthTech Founder | System Architect
+### Backend Systems Engineer | AI Infrastructure & Distributed Systems
 
-I build scalable, AI-driven systems designed for real-world impact. My work sits at the intersection of **Artificial Intelligence**, **Distributed Ledger Technology (Hedera)**, and **Healthcare Infrastructure**, with a specific focus on solving supply chain and verification challenges in the African market.
+I focus on building event-driven and workflow-based backend systems for coordination, trust, and time-sensitive automation problems.
 
 ---
 
