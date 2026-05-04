@@ -64,6 +64,16 @@ I focus on building event-driven and workflow-based backend systems for coordina
 ### 🏆 GitHub Trophies
 [![github-trophy](https://github-trophy.vercel.app/?username=okondev2021&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=okondev2021&theme=github-compact"
+    alt="GitHub activity graph"
+  />
+</p>
+
 ---
 
 ### 📫 Connect with me 
